@@ -1,0 +1,7 @@
+{
+  "name": "test-external-npm",
+  "version": "1.0.0",
+  "dependencies": {
+    "@tgorgol/test": "1.0.0"
+  }
+}
